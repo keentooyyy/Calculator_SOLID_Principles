@@ -1,0 +1,14 @@
+C:\Users\Administrator\RiderProjects\Calculator_SOLID_Principles\bin\Debug\net8.0\Calculator_SOLID_Principles.exe
+C:\Users\Administrator\RiderProjects\Calculator_SOLID_Principles\bin\Debug\net8.0\Calculator_SOLID_Principles.deps.json
+C:\Users\Administrator\RiderProjects\Calculator_SOLID_Principles\bin\Debug\net8.0\Calculator_SOLID_Principles.runtimeconfig.json
+C:\Users\Administrator\RiderProjects\Calculator_SOLID_Principles\bin\Debug\net8.0\Calculator_SOLID_Principles.dll
+C:\Users\Administrator\RiderProjects\Calculator_SOLID_Principles\bin\Debug\net8.0\Calculator_SOLID_Principles.pdb
+C:\Users\Administrator\RiderProjects\Calculator_SOLID_Principles\obj\Debug\net8.0\Calculator_SOLID_Principles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\RiderProjects\Calculator_SOLID_Principles\obj\Debug\net8.0\Calculator_SOLID_Principles.AssemblyInfoInputs.cache
+C:\Users\Administrator\RiderProjects\Calculator_SOLID_Principles\obj\Debug\net8.0\Calculator_SOLID_Principles.AssemblyInfo.cs
+C:\Users\Administrator\RiderProjects\Calculator_SOLID_Principles\obj\Debug\net8.0\Calculator_SOLID_Principles.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\RiderProjects\Calculator_SOLID_Principles\obj\Debug\net8.0\Calculator_SOLID_Principles.dll
+C:\Users\Administrator\RiderProjects\Calculator_SOLID_Principles\obj\Debug\net8.0\refint\Calculator_SOLID_Principles.dll
+C:\Users\Administrator\RiderProjects\Calculator_SOLID_Principles\obj\Debug\net8.0\Calculator_SOLID_Principles.pdb
+C:\Users\Administrator\RiderProjects\Calculator_SOLID_Principles\obj\Debug\net8.0\Calculator_SOLID_Principles.genruntimeconfig.cache
+C:\Users\Administrator\RiderProjects\Calculator_SOLID_Principles\obj\Debug\net8.0\ref\Calculator_SOLID_Principles.dll
